@@ -1,0 +1,21 @@
+body {
+    margin: 10px 75px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.right-header {
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+    color: #E5E7EB;
+    gap: 15px;
+}
+
+.header-logo {
+    font-size: 24px;
+    color: #F9FAF8
+}
