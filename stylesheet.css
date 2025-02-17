@@ -107,3 +107,11 @@ figure img {
     font-style: italic;
     color: #1f2937;
 }
+
+.section4-button {
+    background-color: #3882F6;
+    color: #E5E7Eb;
+    border-radius: 5px;
+    padding: 2px 10px;
+    border: 1px solid #3882F6;
+}
