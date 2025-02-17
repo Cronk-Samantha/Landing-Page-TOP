@@ -1,1 +1,2 @@
 # Landing-Page-TOP
+This Landing Page is my version of the example on The Odin Project. This project was made and formatted using mostly flexbox and adjusting margin properties. It might not look perfect, but it was a great learning opportunity to put what TOP has laid out so far - to use! 
