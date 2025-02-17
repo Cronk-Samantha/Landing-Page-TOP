@@ -93,6 +93,8 @@ figure img {
 .section3 {
     height: auto;
     background-color: #E5E7Eb;
+    width: 90vw;
+    padding: 10px 10%;
 }
 
 .quote-box {
